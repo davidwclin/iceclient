@@ -1,4 +1,4 @@
-(ns iceclient.recieve-test
+(ns iceclient.core-test
   (:use [iceclient.recieve] :reload-all)
   (:use [clojure.test]))
 

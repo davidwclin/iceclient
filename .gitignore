@@ -3,3 +3,8 @@ pom.xml
 lib
 classes
 *.swp
+.classpath
+.project
+/.settings
+/target
+/log
